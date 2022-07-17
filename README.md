@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python,SQL, Tableau**
 
-- 📫 How to reach me **gabrielnbn@hotmail.cp,**
+- 📫 How to reach me **gabrielnbn@hotmail.com,**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/](https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/)
 
