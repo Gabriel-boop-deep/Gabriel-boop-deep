@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
 
-- 💬 Ask me about **Python,SQL, Tableau**
+- 💬 Ask me about **R, Python,SQL, Tableau**
 
 - 📫 How to reach me **gabrielnbn@hotmail.com,**
 
