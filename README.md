@@ -33,4 +33,4 @@
 </div>
 
 
-![snake gif](https://github.com/Gabriel-boop-deep/Gabriel-boop-deep/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Gabriel-boop-deep/blob/output/github-contribution-grid-snake.svg)
