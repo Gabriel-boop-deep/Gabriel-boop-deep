@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
 
-- 🌱 I’m currently learning **Node.JS ,Python, Machine Learning, SQL, Tableau and PowerBi**
+- 🌱 I’m currently learning **Node.JS ,Python, Machine Learning, SQL, Tableau, PowerBi, API REST**
 
 - 👯 I’m looking to collaborate on [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
 
-- 💬 Ask me about **Node.JS, Python,SQL, Tableau**
+- 💬 Ask me about **Node.JS, Python,SQL, Tableau, API REST**
 
 - 📫 How to reach me **gabrielnbn@hotmail.com,**
 
