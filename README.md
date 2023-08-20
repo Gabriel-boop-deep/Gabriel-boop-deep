@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Nunes Barbosa Nogueira</h1>
-<h3 align="center">Lover of the Developer Back-End and Data Science career and its techniques to propose better to the pains of the world</h3>
+<h3 align="center">Lover of the Developer Back-End and Enginner of Analytics career and its techniques to propose better to the pains of the world</h3>
 
 - 🔭 I’m currently working on [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
 
