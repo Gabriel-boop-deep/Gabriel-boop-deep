@@ -42,7 +42,7 @@ No O-PY-THA-ON, unimos 🧠 Ciência de Dados e 🤝 resolução de problemas so
 
 Explore nosso repositório de conjuntos de dados impactantes! De 💚 saúde a 💡 educação, estamos repletos de informações valiosas. Tudo foi preparado usando 🐍 SQL, Python e BigQuery, garantindo confiabilidade e acessibilidade.
 
-🔗 [Explore os Dados]((https://github.com/O-PY-THA-ON))
+🔗 [Explore os Dados](https://github.com/O-PY-THA-ON)
 
 ## Ferramentas Poderosas
 
@@ -69,6 +69,6 @@ Contamos com tecnologias de ponta:
 
 Se você ama dados com propósito, junte-se a nós! Contribua com 📚 conhecimento, 💻 habilidades técnicas ou 🎨 criatividade.
 
-🔗 [Saiba Como Contribuir]((https://github.com/O-PY-THA-ON))
+🔗 [Saiba Como Contribuir](https://github.com/O-PY-THA-ON)
 
 Vamos construir um mundo melhor, juntos, com dados e empatia! 🚀📈
