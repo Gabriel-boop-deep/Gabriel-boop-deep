@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gabriel Nunes Barbosa Nogueira</h1>
 <h3 align="center">Lover of the Developer Back-End and Enginner of Analytics career and its techniques to propose better to the pains of the world</h3>
 
-- 🔭 I’m currently working on [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
+- 🔭 Veja o projeto que criei [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
 
-- 🌱 I’m currently learning **Node.JS ,Python, Machine Learning, SQL, Tableau, PowerBi, API REST**
+- 🌱 Atualmente, sei e estou me aprofundando **Node.JS ,Python, Machine Learning, SQL, Tableau, PowerBi, API REST**
 
-- 👯 I’m looking to collaborate on [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
+- 👯 Estou colaborando  [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
 
-- 💬 Ask me about **Node.JS, Python,SQL, Tableau, API REST**
+- 💬 Me pergunte sobre **Node.JS, Python,SQL, Tableau, API REST**
 
-- 📫 How to reach me **gabrielnbn@hotmail.com,**
+- 📫 Pode entrar em contato comigo pelo e-mail **gabrielnbn@hotmail.com,**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/](https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)
 
