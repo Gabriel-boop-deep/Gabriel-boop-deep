@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gabrielnbn@hotmail.com,**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/](https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira-3101ba181/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/](https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
