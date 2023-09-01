@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel Nunes Barbosa Nogueira</h1>
-<h3 align="center">Lover of the Developer Back-End and Enginner of Analytics career and its techniques to propose better to the pains of the world</h3>
+<h1 align="center">Olá 👋, Meu nome é Gabriel Nunes Barbosa Nogueira</h1>
+<h3 align="center">Amante da carreira de Desenvolvedor Back-End e Engenheiro de Analytics e suas técnicas para propor soluções para o mundo</h3>
 
 - 🔭 Veja o projeto que criei [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
 
