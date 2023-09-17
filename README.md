@@ -34,18 +34,13 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=jpcairesf&color=006bed)
-
-<h3> :man: &nbsp;About me</h3>
-
-- 🎓 &nbsp; Student of Electrical Engineering at <a href="http://www.eng.ufba.br">UFBA</a>.
-
+![](https://komarev.com/ghpvc/?username=Gabriel-boop-deep&color=006bed)
 
 <h3> :rocket: &nbsp;Skills </h3>
 
 **Languages and Frameworks**
 
-  ![JavaScript](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   
@@ -58,7 +53,6 @@
 
   ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
   
 
 **Developing Tools**
@@ -66,60 +60,10 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/Gabriel-boop-deep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-boop-deep&theme=tokyonight&hide_langs_below=1&count_private=true&user=Gabriel-boop-deep" />
-</a>
-
 <br/>
 
 <h3> :earth_americas: &nbsp;Contacts </h3> 
 
-[![Linkedin: Gabriel-boop-deep](https://img.shields.io/badge/-jpcairesf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)](https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)
+[![Linkedin: Gabriel-boop-deep](https://img.shields.io/badge/-GabrielNunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)](https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielnbn@ufba.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielnbn@ufba.br)](mailto:gabrielnbn@ufba.br)
 
-
-
-
-# Bem-vindo ao Projeto O-PY-THA-ON! 🌍📊
-
-## Sobre o Projeto
-
-No O-PY-THA-ON, unimos 🧠 Ciência de Dados e 🤝 resolução de problemas sociais. Nossa missão é usar dados para impulsionar mudanças positivas na sociedade, através de análises inteligentes e ação fundamentada.
-
-## Dados Incríveis
-
-Explore nosso repositório de conjuntos de dados impactantes! De 💚 saúde a 💡 educação, estamos repletos de informações valiosas. Tudo foi preparado usando 🐍 SQL, Python e BigQuery, garantindo confiabilidade e acessibilidade.
-
-🔗 [Explore os Dados](https://github.com/O-PY-THA-ON)
-
-## Ferramentas Poderosas
-
-Contamos com tecnologias de ponta:
-
-- 📊 **SQL**: Para garimpar dados brutos.
-- 🐍 **Python**: Para análises e visualizações.
-- ☁️ **BigQuery**: Para consultas em grande escala.
-- 🔄 **Integração Python-BigQuery**: Mergulhe fundo nos dados!
-
-## Como Começar
-
-1. 🔍 **Escolha um Problema**: Navegue e selecione um problema social que te inspire.
-
-2. 📥 **Pegue os Dados**: Baixe os conjuntos relacionados ao problema - prontinhos para serem usados!
-
-3. 🕵️‍♂️ **Analise os Dados**: Use SQL e Python para desvendar insights poderosos.
-
-4. 🧠 **Crie Modelos**: Explore soluções modeladas, se desejar.
-
-5. 🌐 **Compartilhe Descobertas**: Compartilhe sua sabedoria com a comunidade O-PY-THA-ON!
-
-## Junte-se a Nós! 🤝
-
-Se você ama dados com propósito, junte-se a nós! Contribua com 📚 conhecimento, 💻 habilidades técnicas ou 🎨 criatividade.
-
-🔗 [Saiba Como Contribuir](https://github.com/O-PY-THA-ON)
-
-Vamos construir um mundo melhor, juntos, com dados e empatia! 🚀📈
