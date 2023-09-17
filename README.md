@@ -32,6 +32,57 @@
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
 
+
+
+![](https://komarev.com/ghpvc/?username=jpcairesf&color=006bed)
+
+<h3> :man: &nbsp;About me</h3>
+
+- 🎓 &nbsp; Student of Electrical Engineering at <a href="http://www.eng.ufba.br">UFBA</a>.
+
+
+<h3> :rocket: &nbsp;Skills </h3>
+
+**Languages and Frameworks**
+
+  ![JavaScript](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  
+**Database**
+
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-133331?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Utilities and Tools**
+
+  ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
+  
+
+**Developing Tools**
+
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/Gabriel-boop-deep">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-boop-deep&theme=tokyonight&hide_langs_below=1&count_private=true&user=Gabriel-boop-deep" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Contacts </h3> 
+
+[![Linkedin: Gabriel-boop-deep](https://img.shields.io/badge/-jpcairesf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)](https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielnbn@ufba.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielnbn@ufba.br)](mailto:gabrielnbn@ufba.br)
+
+
+
+
 # Bem-vindo ao Projeto O-PY-THA-ON! 🌍📊
 
 ## Sobre o Projeto
