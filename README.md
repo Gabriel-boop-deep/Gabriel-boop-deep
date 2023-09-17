@@ -24,6 +24,7 @@
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
   
 **Database**
 
@@ -43,6 +44,8 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 
+ <img align='right' src='https://github.com/Gabriel-boop-deep/meuGif/blob/main/meuGif.gif' width='185'>
+
 <div>
   <a href="https://github.com/Gabriel-boop-deep">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-boop-deep&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -53,6 +56,20 @@
 
 <h3> :earth_americas: &nbsp;Contacts </h3> 
 
-[![Linkedin: Gabriel-boop-deep](https://img.shields.io/badge/-GabrielNunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)](https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrielnbn@ufba.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielnbn@ufba.br)](mailto:gabrielnbn@ufba.br)
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/gabriel-nunes-barbosa-nogueira/" target="_blank">
+        <img src="https://img.shields.io/badge/-GabrielNunes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Gabriel-boop-deep">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:gabrielnbn@hotmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-gabrielnbn@hotmail.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
