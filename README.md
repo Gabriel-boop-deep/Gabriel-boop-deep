@@ -24,15 +24,6 @@
 <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"> <img src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-<div>
-  <a href="https://github.com/Gabriel-boop-deep">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-boop-deep&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-boop-deep&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
-
-
 
 ![](https://komarev.com/ghpvc/?username=Gabriel-boop-deep&color=006bed)
 
@@ -61,6 +52,14 @@
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 <br/>
+
+<div>
+  <a href="https://github.com/Gabriel-boop-deep">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-boop-deep&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-boop-deep&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
 
 <h3> :earth_americas: &nbsp;Contacts </h3> 
 
