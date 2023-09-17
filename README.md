@@ -44,7 +44,7 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 
- <img align='right' src='https://github.com/Gabriel-boop-deep/meuGif/blob/main/meuGif.gif' width='185'>
+ <img align='right' src='https://github.com/Gabriel-boop-deep/meuGif/blob/main/meuGif.gif' width='150'>
 
 <div>
   <a href="https://github.com/Gabriel-boop-deep">
