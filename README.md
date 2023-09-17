@@ -33,6 +33,7 @@
 
   ![JavaScript](https://img.shields.io/badge/javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   
 **Database**
