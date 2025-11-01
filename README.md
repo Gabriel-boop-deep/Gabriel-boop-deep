@@ -14,49 +14,81 @@
 
 ## 🚀 Sobre Mim
 
-```python
-class GabrielNunes:
-    def __init__(self):
-        self.username = "Gabriel-boop-deep"
-        self.name = "Gabriel Nunes Barbosa Nogueira"
-        self.role = "AI Specialist & Back-End Developer"
-        self.location = "Salvador, BA - Brasil 🇧🇷"
-        
-        self.code = ["Python", "JavaScript", "SQL", "Node.js"]
-        self.technologies = {
-            "back_end": ["Node.js", "Express", "Spring", "API REST"],
-            "data_science": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow"],
-            "databases": ["PostgreSQL", "MySQL", "MongoDB"],
-            "analytics": ["Tableau", "Power BI", "dbt"],
-            "tools": ["Git", "Docker", "Postman", "Linux"]
-        }
-        
-        self.current_focus = "Machine Learning & Data Engineering"
-        self.learning = ["Deep Learning", "MLOps", "Cloud Computing"]
-        
-    def say_hi(self):
-        print("Obrigado por visitar meu perfil!")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-me = GabrielNunes()
-me.say_hi()
-```
+Sou um **desenvolvedor apaixonado por tecnologia e inovação**, especializado em transformar dados complexos em soluções inteligentes e escaláveis. Com experiência sólida em **Inteligência Artificial**, **Machine Learning** e **Engenharia de Dados**, busco constantemente criar impacto através da tecnologia.
+
+### 🎯 O que eu faço
+
+- 🤖 **Desenvolvo modelos de IA** que resolvem problemas reais
+- 📊 **Construo pipelines de dados** robustos e escaláveis  
+- 💻 **Crio APIs e sistemas backend** de alta performance
+- 📈 **Transformo dados** em insights acionáveis para negócios
+- 🔧 **Implemento soluções** seguindo as melhores práticas da indústria
+
+### 💼 Tecnologias que domino
+
+**Linguagens:** Python • JavaScript • SQL • Node.js  
+**Data Science:** Pandas • NumPy • Scikit-learn • TensorFlow  
+**Databases:** PostgreSQL • MySQL • MongoDB  
+**Analytics:** Tableau • Power BI • dbt  
+**DevOps:** Git • Docker • Linux • Postman
+
+### 🎓 Atualmente
+
+🌱 Aprofundando conhecimentos em **Deep Learning** e **MLOps**  
+🔭 Trabalhando no projeto **[O-PY-THA-ON](https://github.com/O-PY-THA-ON)**  
+🎯 Focado em **Machine Learning** e **Modern Data Stack**  
+📚 Estudando **Cloud Computing** (AWS/Azure)
 
 ---
 
-## 💼 Experiência e Foco
+## 💼 Áreas de Atuação
 
-🎯 **Especializado em:**
-- 🤖 Inteligência Artificial e Machine Learning
-- 📊 Engenharia de Dados e Analytics
-- 🔧 Desenvolvimento Back-End escalável
-- 📈 Visualização de Dados e Business Intelligence
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🌱 **Atualmente aprendendo:**
-- Deep Learning com TensorFlow/PyTorch
+### 🤖 Inteligência Artificial
+- Desenvolvimento de modelos de ML
+- Redes Neurais e Deep Learning
+- Computer Vision com CNN
+- Processamento de Linguagem Natural
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Engenharia de Dados
+- Pipelines ETL/ELT robustos
 - Modern Data Stack (dbt, Airflow)
-- Cloud Computing (AWS/Azure)
-- MLOps e Deploy de Modelos
+- Data Quality & Testing
+- Analytics Engineering
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Desenvolvimento Back-End
+- APIs RESTful escaláveis
+- Node.js & Express
+- Microserviços
+- Integração de sistemas
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Business Intelligence
+- Dashboards interativos
+- Visualização de dados
+- Tableau & Power BI
+- KPIs e métricas estratégicas
+
+</td>
+</tr>
+</table>
+
+---
 ---
 
 ## 🛠️ Stack Tecnológica
