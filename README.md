@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Transformando+dados+em+intelig%C3%AAncia;Construindo+solu%C3%A7%C3%B5es+inovadoras;Apaixonado+por+IA+e+Machine+Learning)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Gabriel-boop-deep&color=00f5ff&style=flat-square&label=Visitantes+do+Perfil)
 
 </div>
@@ -37,7 +35,7 @@ class GabrielNunes:
         self.learning = ["Deep Learning", "MLOps", "Cloud Computing"]
         
     def say_hi(self):
-        print("Obrigado por visitar meu perfil! Vamos construir algo incrível juntos!")
+        print("Obrigado por visitar meu perfil!")
 
 me = GabrielNunes()
 me.say_hi()
@@ -101,33 +99,44 @@ me.say_hi()
 
 ## 🏆 Projetos em Destaque
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🐍 O-PY-THA-ON</h3>
 <div align="center">
-
-### 🐍 [O-PY-THA-ON](https://github.com/O-PY-THA-ON)
-**Projeto de código aberto focado em Python e suas aplicações**
-- 🎯 Soluções práticas com Python
-- 📚 Materiais educacionais
-- 🤝 Colaboração ativa da comunidade
-
-[![Repo](https://img.shields.io/badge/🔗_Ver_Projeto-00f5ff?style=for-the-badge)](https://github.com/O-PY-THA-ON)
-
-### 📊 BANVIC Analytics Project
-**Análise de dados com Modern Data Stack**
-- 🔄 Pipeline ETL completo
-- 📈 Dashboards interativos
-- 🎯 Insights estratégicos
-
-[![Repo](https://img.shields.io/badge/🔗_Ver_Projeto-00f5ff?style=for-the-badge)](https://github.com/Gabriel-boop-deep/BANVIC_ANALYTICS_PROJECT)
-
-### 🧠 Classificação de Imagens com CNN
-**Deep Learning para Computer Vision**
-- 🖼️ Redes Neurais Convolucionais
-- ⚡ TensorFlow & Keras
-- 📊 Data Augmentation
-
-[![Repo](https://img.shields.io/badge/🔗_Ver_Projeto-00f5ff?style=for-the-badge)](https://github.com/Gabriel-boop-deep/Classifica-o-de-Imagens-com-CNN-e-TensorFlow)
-
+<a href="https://github.com/O-PY-THA-ON" target="_blank"><img src="https://img.shields.io/badge/Ver_Projeto-00f5ff?style=for-the-badge&logo=github" alt="Ver Projeto"/></a>
+<p><strong>Python • Open Source</strong></p>
+<p>Projeto de código aberto focado em Python e suas aplicações práticas</p>
 </div>
+</td>
+<td width="50%">
+<h3 align="center">📊 BANVIC Analytics</h3>
+<div align="center">
+<a href="https://github.com/Gabriel-boop-deep/BANVIC_ANALYTICS_PROJECT" target="_blank"><img src="https://img.shields.io/badge/Ver_Projeto-00f5ff?style=for-the-badge&logo=github" alt="Ver Projeto"/></a>
+<p><strong>dbt • SQL • Analytics</strong></p>
+<p>Análise de dados com Modern Data Stack e dashboards interativos</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🧠 CNN Image Classification</h3>
+<div align="center">
+<a href="https://github.com/Gabriel-boop-deep/Classifica-o-de-Imagens-com-CNN-e-TensorFlow" target="_blank"><img src="https://img.shields.io/badge/Ver_Projeto-00f5ff?style=for-the-badge&logo=github" alt="Ver Projeto"/></a>
+<p><strong>TensorFlow • CNN • Deep Learning</strong></p>
+<p>Redes Neurais Convolucionais para Computer Vision</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🔍 DBT BV Monitoring</h3>
+<div align="center">
+<a href="https://github.com/Gabriel-boop-deep/dbt_bv_monitoring" target="_blank"><img src="https://img.shields.io/badge/Ver_Projeto-00f5ff?style=for-the-badge&logo=github" alt="Ver Projeto"/></a>
+<p><strong>dbt • Data Quality • Testing</strong></p>
+<p>Sistema de monitoramento e validação de dados</p>
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -138,12 +147,10 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-boop-deep&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-boop-deep&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6e96&currStreakLabel=00f5ff" alt="GitHub Streak Stats"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-boop-deep&custom_title=Contribuições&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area_color=00f5ff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-boop-deep&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6e96&currStreakLabel=00f5ff" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -152,14 +159,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-boop-deep&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Troféus"/>
-</div>
-
----
-
-## 📈 Contribuições
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Gabriel-boop-deep&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributed Repo"/>
 </div>
 
 ---
@@ -195,10 +194,6 @@ me.say_hi()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-boop-deep)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gabriel-boop-deep.github.io)
 
-</div>
-
-<div align="center">
-
 ### 💬 Me pergunte sobre
 
 `Python` • `Machine Learning` • `Data Engineering` • `Node.js` • `SQL` • `API REST` • `Analytics`
@@ -207,36 +202,10 @@ me.say_hi()
 
 ---
 
-## 🎨 Linguagens Mais Usadas (Detalhado)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gabriel-boop-deep&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" alt="Wakatime Stats"/>
-</div>
-
----
-
-## 🐍 Animação de Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gabriel-boop-deep/Gabriel-boop-deep/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ Se você gostou dos meus projetos, considere dar uma estrela!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 **Obrigado pela visita! 🚀**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
