@@ -202,13 +202,6 @@ I'm a **technology-driven developer** specializing in transforming complex data 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-boop-deep&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
----
 
 ## 💡 Philosophy
 
