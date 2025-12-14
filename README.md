@@ -256,3 +256,5 @@ I'm a **technology-driven developer** specializing in transforming complex data 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gabriel-boop-deep.Gabriel-boop-deep)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer&animation=fadeIn"/>
