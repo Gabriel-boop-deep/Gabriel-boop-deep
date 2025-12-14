@@ -14,7 +14,8 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+<img align="right" alt="Coding" width="400" src="https://github.com/Gabriel-boop-deep/coder/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true">
 
 I'm a **technology-driven developer** specializing in transforming complex data into intelligent, scalable solutions. With solid expertise in **Artificial Intelligence**, **Machine Learning**, and **Data Engineering**, I focus on building production-grade systems that deliver measurable business impact.
 
